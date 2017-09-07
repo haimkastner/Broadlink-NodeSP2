@@ -95,4 +95,9 @@ WantedBy=multi-user.target
 4. `systemctl enable NodeSP2`
 5. `systemctl start NodeSP2`
 
+Fork changes 
+=================
 
+## changes for https://github.com/haimkastner/GenericIoTServer
+
+add option to only check power without change it
